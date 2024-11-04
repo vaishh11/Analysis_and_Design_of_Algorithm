@@ -1,1 +1,1 @@
-# Aanalysis_and_Desing_of_Algorithm
+# Aanalysis_and_Design_of_Algorithm
