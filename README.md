@@ -1,1 +1,1 @@
-# Aanalysis_&_Desing_of_Algorithm(ADA)
+# Aanalysis_and_Desing_of_Algorithm
